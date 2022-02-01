@@ -1,0 +1,22 @@
+html, body {
+    margin: 0 auto;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    text-align: center;
+    position: relative;
+}
+
+#hook {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 4vw;
+    font-weight: bold;
+    letter-spacing: 0.1vw;
+}
+
+#websitedescription {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    width: 20vw;
+    display: inline-block;
+    line-height: 1.5;
+}
